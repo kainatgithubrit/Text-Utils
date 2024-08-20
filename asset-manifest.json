@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kainatgithubrit/Text-Utils.git/static/css/main.dc4d6ff2.css",
+    "main.js": "/kainatgithubrit/Text-Utils.git/static/js/main.dffb6bd1.js",
+    "static/js/453.ed3810f9.chunk.js": "/kainatgithubrit/Text-Utils.git/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/kainatgithubrit/Text-Utils.git/index.html",
+    "main.dc4d6ff2.css.map": "/kainatgithubrit/Text-Utils.git/static/css/main.dc4d6ff2.css.map",
+    "main.dffb6bd1.js.map": "/kainatgithubrit/Text-Utils.git/static/js/main.dffb6bd1.js.map",
+    "453.ed3810f9.chunk.js.map": "/kainatgithubrit/Text-Utils.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.dffb6bd1.js"
+  ]
+}
